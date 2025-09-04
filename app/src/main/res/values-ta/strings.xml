@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">சஹஜ் KYC</string>
+    <string name="choose_method">முறையைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="digilocker_title">டிஜிலாக்கர்</string>
+    <string name="digilocker_subtitle">வேகமானது மற்றும் எளிதானது</string>
+    <string name="upload_document_title">ஆவணத்தைப் பதிவேற்றவும்</string>
+    <string name="upload_document_subtitle">உங்கள் தொலைபேசி கேமராவைப் பயன்படுத்தவும்</string>
+    <string name="doc_selection_title">உங்கள் ஆவணத்தைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="aadhaar_card_title">ஆதார் அட்டை</string>
+    <string name="aadhaar_card_subtitle">பெரும்பாலான சரிபார்ப்புகளுக்கு</string>
+    <string name="pan_card_title">பான் கார்டு</string>
+    <string name="pan_card_subtitle">நிதி KYC-க்கு</string>
+    <string name="voter_id_title">வாக்காளர் அடையாள அட்டை</string>
+    <string name="voter_id_subtitle">முகவரி சரிபார்ப்புக்கு</string>
+    <string name="digilocker_aadhaar_title">டிஜிலாக்கர் சரிபார்ப்பு</string>
+    <string name="aadhaar_label">உங்கள் 12 இலக்க ஆதார் எண்ணை உள்ளிடவும்</string>
+    <string name="verify_button">சரிபார்க்கவும்</string>
+    <string name="digilocker_info">இது டிஜிலாக்கரிலிருந்து உங்கள் ஆவணங்களைப் பாதுகாப்பாகப் பெறப் பயன்படுகிறது.</string>
+    <string name="info_secure">உங்கள் தகவல் பாதுகாப்பானது மற்றும் மறைகுறியாக்கப்பட்டதாகும்</string>
+    <string name="doc_capture_title">உங்கள் ஆவணத்தை பெட்டியில் வைக்கவும்</string>
+    <string name="permission_denied">தொடர கேமரா அனுமதி தேவை.</string>
+    <string name="request_permission">அனுமதியைக் கோருங்கள்</string>
+    <string name="face_liveness_title">தயவுசெய்து கேமராவை நேராகப் பாருங்கள்</string>
+    <string name="liveness_success">நேரடி சோதனை வெற்றி</string>
+    <string name="hold_still">அப்படியே இருங்கள்…</string>
+    <string name="verification_complete">சரிபார்ப்பு முடிந்தது</string>
+    <string name="retry_title">மீண்டும் முயற்சி செய்வோம்</string>
+    <string name="retry_subtitle">புகைப்படம் தெளிவாக இல்லை.</string>
+    <string name="retry_tips_title">விரைவான குறிப்புகள்:</string>
+    <string name="retry_tip_1">நன்கு ஒளிரும் அறைக்குச் செல்லுங்கள்</string>
+    <string name="retry_tip_2">உங்கள் தொலைபேசியை சீராகப் பிடித்துக் கொள்ளுங்கள்</string>
+    <string name="retry_button">மீண்டும் புகைப்படம் எடுக்கவும்</string>
+    <string name="status_title">ஆவணங்கள் சமர்ப்பிக்கப்பட்டன!</string>
+    <string name="status_subtitle">நன்றி! சரிபார்ப்பு முடிந்ததும் நாங்கள் உங்களுக்குத் தெரிவிப்போம்.</string>
+    <string name="status_done_button">முடிந்தது</string>
+</resources>

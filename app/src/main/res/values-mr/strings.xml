@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">सहज KYC</string>
+    <string name="choose_method">पद्धत निवडा</string>
+    <string name="digilocker_title">डिजीलॉकर</string>
+    <string name="digilocker_subtitle">सर्वात वेगवान आणि सोपे</string>
+    <string name="upload_document_title">दस्तऐवज अपलोड करा</string>
+    <string name="upload_document_subtitle">आपल्या फोनचा कॅमेरा वापरा</string>
+    <string name="doc_selection_title">तुमचे दस्तऐवज निवडा</string>
+    <string name="aadhaar_card_title">आधार कार्ड</string>
+    <string name="aadhaar_card_subtitle">बहुतेक पडताळणीसाठी</string>
+    <string name="pan_card_title">पॅन कार्ड</string>
+    <string name="pan_card_subtitle">आर्थिक KYC साठी</string>
+    <string name="voter_id_title">मतदार ओळखपत्र</string>
+    <string name="voter_id_subtitle">पत्ता पडताळणीसाठी</string>
+    <string name="digilocker_aadhaar_title">डिजीलॉकर पडताळणी</string>
+    <string name="aadhaar_label">तुमचा १२-अंकी आधार क्रमांक प्रविष्ट करा</string>
+    <string name="verify_button">पडताळा</string>
+    <string name="digilocker_info">हे डिजीलॉकरमधून तुमची कागदपत्रे सुरक्षितपणे आणण्यासाठी वापरले जाते.</string>
+    <string name="info_secure">तुमची माहिती सुरक्षित आणि एनक्रिप्टेड आहे</string>
+    <string name="doc_capture_title">तुमचे दस्तऐवज बॉक्समध्ये ठेवा</string>
+    <string name="permission_denied">पुढे जाण्यासाठी कॅमेरा परवानगी आवश्यक आहे.</string>
+    <string name="request_permission">परवानगीची विनंती करा</string>
+    <string name="face_liveness_title">कृपया कॅमेऱ्यात सरळ पहा</string>
+    <string name="liveness_success">लाइव्हनेस तपासणी यशस्वी</string>
+    <string name="hold_still">स्थिर राहा…</string>
+    <string name="verification_complete">पडताळणी पूर्ण झाली</string>
+    <string name="retry_title">पुन्हा प्रयत्न करूया</string>
+    <string name="retry_subtitle">फोटो पुरेसा स्पष्ट नव्हता.</string>
+    <string name="retry_tips_title">द्रुत टिपा:</string>
+    <string name="retry_tip_1">चांगल्या प्रकाशाच्या खोलीत जा</string>
+    <string name="retry_tip_2">तुमचा फोन स्थिर धरा</string>
+    <string name="retry_button">पुन्हा फोटो घ्या</string>
+    <string name="status_title">दस्तऐवज सबमिट केले!</string>
+    <string name="status_subtitle">धन्यवाद! पडताळणी पूर्ण झाल्यावर आम्ही तुम्हाला सूचित करू.</string>
+    <string name="status_done_button">झाले</string>
+</resources>

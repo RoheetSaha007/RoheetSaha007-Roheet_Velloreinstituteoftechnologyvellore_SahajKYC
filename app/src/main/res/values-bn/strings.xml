@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">সহজ KYC</string>
+    <string name="choose_method">পদ্ধতি নির্বাচন করুন</string>
+    <string name="digilocker_title">ডিজি-লকার</string>
+    <string name="digilocker_subtitle">দ্রুততম এবং সহজতম</string>
+    <string name="upload_document_title">নথি আপলোড করুন</string>
+    <string name="upload_document_subtitle">আপনার ফোনের ক্যামেরা ব্যবহার করুন</string>
+    <string name="doc_selection_title">আপনার নথি নির্বাচন করুন</string>
+    <string name="aadhaar_card_title">আধার কার্ড</string>
+    <string name="aadhaar_card_subtitle">বেশিরভাগ যাচাইয়ের জন্য</string>
+    <string name="pan_card_title">প্যান কার্ড</string>
+    <string name="pan_card_subtitle">আর্থিক KYC-এর জন্য</string>
+    <string name="voter_id_title">ভোটার আইডি কার্ড</string>
+    <string name="voter_id_subtitle">ঠিকানা যাচাইয়ের জন্য</string>
+    <string name="digilocker_aadhaar_title">ডিজি-লকার যাচাইকরণ</string>
+    <string name="aadhaar_label">আপনার ১২ সংখ্যার আধার নম্বর লিখুন</string>
+    <string name="verify_button">যাচাই করুন</string>
+    <string name="digilocker_info">এটি ডিজি-লকার থেকে আপনার নথিগুলি সুরক্ষিতভাবে আনার জন্য ব্যবহৃত হয়।</string>
+    <string name="info_secure">আপনার তথ্য নিরাপদ এবং এনক্রিপ্ট করা আছে</string>
+    <string name="doc_capture_title">আপনার নথিটি বাক্সের ভিতরে রাখুন</string>
+    <string name="permission_denied">এগিয়ে যাওয়ার জন্য ক্যামেরার অনুমতি প্রয়োজন।</string>
+    <string name="request_permission">অনুমতির জন্য অনুরোধ করুন</string>
+    <string name="face_liveness_title">অনুগ্রহ করে সরাসরি ক্যামেরার দিকে তাকান</string>
+    <string name="liveness_success">লাইভনেস পরীক্ষা সফল</string>
+    <string name="hold_still">স্থির থাকুন…</string>
+    <string name="verification_complete">যাচাইকরণ সম্পন্ন</string>
+    <string name="retry_title">আবার চেষ্টা করা যাক</string>
+    <string name="retry_subtitle">ছবিটি যথেষ্ট পরিষ্কার ছিল না।</string>
+    <string name="retry_tips_title">দ্রুত টিপস:</string>
+    <string name="retry_tip_1">একটি ভাল আলোকিত ঘরে যান</string>
+    <string name="retry_tip_2">আপনার ফোন স্থিরভাবে ধরে রাখুন</string>
+    <string name="retry_button">আবার ছবি তুলুন</string>
+    <string name="status_title">নথি জমা দেওয়া হয়েছে!</string>
+    <string name="status_subtitle">ধন্যবাদ! যাচাইকরণ সম্পূর্ণ হলে আমরা আপনাকে অবহিত করব।</string>
+    <string name="status_done_button">সম্পন্ন</string>
+</resources>

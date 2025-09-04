@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">సహజ్ KYC</string>
+    <string name="choose_method">పద్ధతిని ఎంచుకోండి</string>
+    <string name="digilocker_title">డిజీలాకర్</string>
+    <string name="digilocker_subtitle">వేగవంతమైనది మరియు సులభమైనది</string>
+    <string name="upload_document_title">పత్రాన్ని అప్‌లోడ్ చేయండి</string>
+    <string name="upload_document_subtitle">మీ ఫోన్ కెమెరాను ఉపయోగించండి</string>
+    <string name="doc_selection_title">మీ పత్రాన్ని ఎంచుకోండి</string>
+    <string name="aadhaar_card_title">ఆధార్ కార్డ్</string>
+    <string name="aadhaar_card_subtitle">చాలా వరకు ధృవీకరణల కోసం</string>
+    <string name="pan_card_title">పాన్ కార్డ్</string>
+    <string name="pan_card_subtitle">ఆర్థిక KYC కోసం</string>
+    <string name="voter_id_title">ఓటరు ID కార్డ్</string>
+    <string name="voter_id_subtitle">చిరునామా ధృవీకరణ కోసం</string>
+    <string name="digilocker_aadhaar_title">డిజీలాకర్ ధృవీకరణ</string>
+    <string name="aadhaar_label">మీ 12-అంకెల ఆధార్ నంబర్‌ను నమోదు చేయండి</string>
+    <string name="verify_button">ధృవీకరించండి</string>
+    <string name="digilocker_info">ఇది డిజిలాకర్ నుండి మీ పత్రాలను సురక్షితంగా తీసుకురావడానికి ఉపయోగించబడుతుంది.</string>
+    <string name="info_secure">మీ సమాచారం సురక్షితం మరియు గుప్తీకరించబడింది</string>
+    <string name="doc_capture_title">మీ పత్రాన్ని పెట్టెలో ఉంచండి</string>
+    <string name="permission_denied">కొనసాగించడానికి కెమెరా అనుమతి అవసరం.</string>
+    <string name="request_permission">అనుమతిని అభ్యర్థించండి</string>
+    <string name="face_liveness_title">దయచేసి కెమెరాలోకి నిటారుగా చూడండి</string>
+    <string name="liveness_success">లైవ్‌నెస్ తనిఖీ విజయవంతమైంది</string>
+    <string name="hold_still">నిశ్చలంగా ఉండండి…</string>
+    <string name="verification_complete">ధృవీకరణ పూర్తయింది</string>
+    <string name="retry_title">మళ్లీ ప్రయత్నిద్దాం</string>
+    <string name="retry_subtitle">ఫోటో తగినంత స్పష్టంగా లేదు.</string>
+    <string name="retry_tips_title">త్వరిత చిట్కాలు:</string>
+    <string name="retry_tip_1">బాగా వెలుతురు ఉన్న గదికి వెళ్లండి</string>
+    <string name="retry_tip_2">మీ ఫోన్‌ను స్థిరంగా పట్టుకోండి</string>
+    <string name="retry_button">మళ్లీ ఫోటో తీయండి</string>
+    <string name="status_title">పత్రాలు సమర్పించబడ్డాయి!</string>
+    <string name="status_subtitle">ధన్యవాదాలు! ధృవీకరణ పూర్తయిన తర్వాత మేము మీకు తెలియజేస్తాము.</string>
+    <string name="status_done_button">పూర్తయింది</string>
+</resources>

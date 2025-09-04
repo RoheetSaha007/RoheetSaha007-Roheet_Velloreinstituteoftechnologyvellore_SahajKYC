@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Sahaj KYC</string>
+
+    <string name="choose_method">Choose Method</string>
+    <string name="digilocker_title">Digilocker</string>
+    <string name="digilocker_subtitle">Fastest and Easiest</string>
+    <string name="upload_document_title">Upload Document</string>
+    <string name="upload_document_subtitle">Use your phone\'s camera</string>
+
+    <string name="doc_selection_title">Select Your Document</string>
+
+    <string name="digilocker_aadhaar_title">Digilocker Verification</string>
+    <string name="aadhaar_label">Enter your 12-digit Aadhaar Number</string>
+    <string name="verify_button">Verify</string>
+
+    <string name="doc_capture_title">Place your document inside the box</string>
+    <string name="permission_denied">Camera permission is required to continue.</string>
+    <string name="request_permission">Request Permission</string>
+
+    <string name="face_liveness_title">Please look into the camera</string>
+    <string name="liveness_success">Liveness Check Successful</string>
+    <string name="hold_still">Hold Still…</string>
+
+    <string name="retry_title">Let\'s Try Again</string>
+    <string name="retry_subtitle">The photo was not clear enough.</string>
+    <string name="retry_tip_1">Go to a well-lit room</string>
+    <string name="retry_tip_2">Hold your phone steady</string>
+    <string name="retry_button">Take Photo Again</string>
+
+    <string name="status_title">Documents Submitted!</string>
+    <string name="status_subtitle">Thank you! We will notify you once the verification is complete.</string>
+    <string name="status_done_button">Done</string>
+    <string name="aadhaar_card_title">Aadhaar Card</string>
+    <string name="aadhaar_card_subtitle">For most verifications</string>
+    <string name="pan_card_title">PAN Card</string>
+    <string name="pan_card_subtitle">For financial KYC</string>
+    <string name="voter_id_title">Voter ID Card</string>
+    <string name="voter_id_subtitle">For address verification</string>
+</resources>

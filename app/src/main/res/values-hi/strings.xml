@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">सहज KYC</string>
+    <string name="choose_method">विधि चुनें</string>
+    <string name="digilocker_title">डिजिलॉकर</string>
+    <string name="digilocker_subtitle">सबसे तेज़ और आसान</string>
+    <string name="upload_document_title">दस्तावेज़ अपलोड करें</string>
+    <string name="upload_document_subtitle">अपने फ़ोन के कैमरे का उपयोग करें</string>
+    <string name="doc_selection_title">अपना दस्तावेज़ चुनें</string>
+    <string name="aadhaar_card_title">आधार कार्ड</string>
+    <string name="aadhaar_card_subtitle">अधिकांश सत्यापन के लिए</string>
+    <string name="pan_card_title">पैन कार्ड</string>
+    <string name="pan_card_subtitle">वित्तीय केवाईसी के लिए</string>
+    <string name="voter_id_title">मतदाता पहचान पत्र</string>
+    <string name="voter_id_subtitle">पते के सत्यापन के लिए</string>
+    <string name="digilocker_aadhaar_title">डिजिलॉकर सत्यापन</string>
+    <string name="aadhaar_label">अपना 12 अंकों का आधार नंबर दर्ज करें</string>
+    <string name="verify_button">सत्यापित करें</string>
+    <string name="digilocker_info">इसका उपयोग डिजिलॉकर से आपके दस्तावेज़ों को सुरक्षित रूप से प्राप्त करने के लिए किया जाता है।</string>
+    <string name="info_secure">आपकी जानकारी सुरक्षित और एन्क्रिप्टेड है</string>
+    <string name="doc_capture_title">अपना दस्तावेज़ बॉक्स के अंदर रखें</string>
+    <string name="permission_denied">जारी रखने के लिए कैमरे की अनुमति आवश्यक है।</string>
+    <string name="request_permission">अनुमति का अनुरोध करें</string>
+    <string name="face_liveness_title">कृपया सीधे कैमरे में देखें</string>
+    <string name="liveness_success">लाइवनेस जांच सफल</string>
+    <string name="hold_still">स्थिर रहें…</string>
+    <string name="verification_complete">सत्यापन पूर्ण</string>
+    <string name="retry_title">पुनः प्रयास करें</string>
+    <string name="retry_subtitle">फोटो स्पष्ट नहीं थी।</string>
+    <string name="retry_tips_title">त्वरित सुझाव:</string>
+    <string name="retry_tip_1">अच्छी रोशनी वाले कमरे में जाएं</string>
+    <string name="retry_tip_2">अपना फोन स्थिर रखें</string>
+    <string name="retry_button">फिर से फोटो लें</string>
+    <string name="status_title">दस्तावेज़ जमा हो गए हैं!</string>
+    <string name="status_subtitle">धन्यवाद! सत्यापन पूरा होने पर हम आपको सूचित करेंगे।</string>
+    <string name="status_done_button">पूर्ण</string>
+</resources>
